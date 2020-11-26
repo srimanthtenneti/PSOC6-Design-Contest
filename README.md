@@ -4,7 +4,7 @@
 In many places medical students are having to manually take readings from the COVID-19 isolation wards. This is not good for them as they might be infected by the virus. So, I started building a simple application that collects data via sensors, then processes the data, sends it to a cloud storage , inputs it to a ML pipeline and displays the inference along with the patient data on a online dashboard. 
 
 ## Project Block Diagram
-![Screenshot](images/PSOC6.png)
+![Screenshot](images/PSOC6des.png)
 
 ## Description
 The main key components of this design are : 
